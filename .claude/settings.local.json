@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx:*)",
+      "Bash(npm cache:*)",
+      "Bash(cd:*)"
+    ]
+  }
+}
