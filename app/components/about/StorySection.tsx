@@ -72,7 +72,7 @@ export default function StorySection() {
             </div>
 
             <blockquote className="border-l-4 border-[#D4A017] pl-6 py-2 italic text-[#1B4332] text-lg font-medium">
-              "Odogwu" — a Yoruba word for "great one" or "leader" — reflects our
+              "Odogwu" — a Igbo word for "great one" or "leader" — reflects our
               ambition to be the best at what we do.
             </blockquote>
           </motion.div>
