@@ -69,7 +69,7 @@ export default function Navbar() {
                 <Link
                   key={link.href}
                   href={link.href}
-                  className="relative text-[#FAF7F0] font-medium hover:text-[#1B4332] transition-colors py-2 group"
+                  className="relative text-[#D4A017] font-medium hover:text-[#1B4332] transition-colors py-2 group"
                 >
                   {link.label}
                   <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-[#D4A017] transition-all duration-300 group-hover:w-full" />

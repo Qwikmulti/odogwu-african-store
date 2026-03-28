@@ -5,7 +5,8 @@
       "Bash(npx:*)",
       "Bash(npm cache:*)",
       "Bash(cd:*)",
-      "Bash(npm uninstall:*)"
+      "Bash(npm uninstall:*)",
+      "WebSearch"
     ]
   }
 }
