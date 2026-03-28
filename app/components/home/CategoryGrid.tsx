@@ -19,7 +19,7 @@ const categories = [
     description: "Garri, semovita, plantain, yam flour, egusi & more",
     icon: Package,
     image:
-      "https://images.unsplash.com/photo-1518977676601-b28b5e4dd746?w=600&q=80",
+      "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=600&q=80",
     href: "/shop",
   },
   {

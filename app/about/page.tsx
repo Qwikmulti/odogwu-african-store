@@ -22,7 +22,7 @@ export default function AboutPage() {
         {/* Page Hero */}
         <section className="relative h-80 overflow-hidden">
           <Image
-            src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1920&q=80"
+            src="https://images.unsplash.com/photo-1506354666786-959d6d497f1a?w=1920&q=80"
             alt="Vibrant African market scene"
             fill
             priority

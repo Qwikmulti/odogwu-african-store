@@ -21,7 +21,7 @@ export default function ContactPage() {
         {/* Page Hero */}
         <section className="relative h-80 overflow-hidden">
           <Image
-            src="https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=1920&q=80"
+            src="https://images.unsplash.com/photo-1506354666786-959d6d497f1a?w=1920&q=80"
             alt="Inside Odogwu African Shop"
             fill
             priority

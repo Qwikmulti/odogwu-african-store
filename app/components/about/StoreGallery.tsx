@@ -5,11 +5,11 @@ import Image from "next/image";
 
 const galleryImages = [
   {
-    src: "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=600&q=80",
     alt: "African shop interior with colourful product shelves",
   },
   {
-    src: "https://images.unsplash.com/photo-1516651060297-e1b2b3d5c36e?w=600&q=80",
+    src: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
     alt: "Vibrant African market with fresh produce",
   },
   {

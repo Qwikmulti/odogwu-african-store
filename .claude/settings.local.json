@@ -4,7 +4,8 @@
       "Bash(npm install:*)",
       "Bash(npx:*)",
       "Bash(npm cache:*)",
-      "Bash(cd:*)"
+      "Bash(cd:*)",
+      "Bash(npm uninstall:*)"
     ]
   }
 }

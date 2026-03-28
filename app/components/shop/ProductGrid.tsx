@@ -20,7 +20,7 @@ const allProducts: Product[] = [
     description: "Slow-cooked oxtail perfect for Jamaican-style brown stew or pressure-cooked to tender perfection.",
     category: "Meat & Fish",
     categoryId: "meat-fish",
-    image: "https://images.unsplash.com/photo-1544025162-d76594f765ee?w=500&q=80",
+    image: "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=500&q=80",
   },
   {
     id: "3",
@@ -86,7 +86,7 @@ const allProducts: Product[] = [
     description: "Premium yam flour for making authentic amala. Smooth consistency every time.",
     category: "African Staples",
     categoryId: "staples",
-    image: "https://images.unsplash.com/photo-1518977676601-b28b5e4dd746?w=500&q=80",
+    image: "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500&q=80",
   },
   {
     id: "11",
@@ -102,7 +102,7 @@ const allProducts: Product[] = [
     description: "Ground egusi seeds — the essential base for Nigeria's most popular soup.",
     category: "African Staples",
     categoryId: "staples",
-    image: "https://images.unsplash.com/photo-1596097635121-14b63b7a0c19?w=500&q=80",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&q=80",
   },
 
   // Caribbean
@@ -120,7 +120,7 @@ const allProducts: Product[] = [
     description: "Rich coconut milk for Caribbean curries, rice and peas, and traditional dishes.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1596097635121-14b63b7a0c19?w=500&q=80",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&q=80",
   },
   {
     id: "15",
@@ -144,7 +144,7 @@ const allProducts: Product[] = [
     description: "Authentic Jamaican jerk marinade — scotch bonnet, allspice, thyme and garlic.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1534790566855-4cb788d389ec?w=500&q=80",
+    image: "https://images.unsplash.com/photo-1596097635121-14b63b7a0c19?w=500&q=80",
   },
   {
     id: "18",
@@ -152,7 +152,7 @@ const allProducts: Product[] = [
     description: "Ground West African crayfish — the secret umami bomb for Nigerian and Ghanaian soups.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1596097635121-14b63b7a0c19?w=500&q=80",
+    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&q=80",
   },
 
   // Snacks & Drinks
@@ -202,7 +202,7 @@ const allProducts: Product[] = [
     description: "Dry roasted groundnuts — a wholesome, protein-rich snack for every occasion.",
     category: "Snacks & Drinks",
     categoryId: "snacks",
-    image: "https://images.unsplash.com/photo-1567892320421-27a6a5cd2e11?w=500&q=80",
+    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=500&q=80",
   },
 
   // Cosmetics

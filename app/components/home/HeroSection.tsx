@@ -15,7 +15,7 @@ export default function HeroSection() {
       {/* Background Image with Parallax */}
       <motion.div style={{ y }} className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1516651060297-e1b2b3d5c36e?w=1920&q=80"
+          src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1920&q=80"
           alt="Vibrant African market with colorful produce and spices"
           fill
           priority
