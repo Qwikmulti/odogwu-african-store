@@ -1,0 +1,15 @@
+# Odogwu African Shop - robots.txt
+# https://www.odogwuafricanshop.co.uk
+
+User-agent: *
+Allow: /
+
+# Disallow admin/internal paths (none currently, but future-proofing)
+Disallow: /api/
+Disallow: /_next/
+
+# Sitemap
+Sitemap: https://www.odogwuafricanshop.co.uk/sitemap.xml
+
+# Crawl delay (kind to shared hosting)
+Crawl-delay: 1
