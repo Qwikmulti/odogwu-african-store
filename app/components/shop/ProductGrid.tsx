@@ -52,7 +52,7 @@ const allProducts: Product[] = [
     description: "Tenderized cow feet — a favourite in Nigerian pepper soup and translational jollof dishes.",
     category: "Meat & Fish",
     categoryId: "meat-fish",
-    image: "/images/product-6.jpeg",
+    image: "/images/product-1.jpeg",
   },
 
   // African Staples
@@ -86,7 +86,7 @@ const allProducts: Product[] = [
     description: "Premium yam flour for making authentic amala. Smooth consistency every time.",
     category: "African Staples",
     categoryId: "staples",
-    image: "/images/product-10.jpeg",
+    image: "/images/product-5.jpeg",
   },
   {
     id: "11",
@@ -236,7 +236,8 @@ const allProducts: Product[] = [
     description: "Murray's Hair Food — petroleum jelly and mineral oil blend for natural hair moisture.",
     category: "Cosmetics",
     categoryId: "cosmetics",
-    image: "/images/product-5.jpeg",
+    image: "/images/product-10.jpeg",
+
   },
 
   // Wholesale
