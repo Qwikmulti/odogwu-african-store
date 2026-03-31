@@ -6,7 +6,14 @@
       "Bash(npm cache:*)",
       "Bash(cd:*)",
       "Bash(npm uninstall:*)",
-      "WebSearch"
+      "WebSearch",
+      "mcp__nano-banana__get_configuration_status",
+      "mcp__nano-banana__generate_image",
+      "Read(//c/Users/Damilola/**)",
+      "Read(//c/Users/Damilola/.config/**)"
     ]
+  },
+  "enabledPlugins": {
+    "ui-ux-pro-max@ui-ux-pro-max-skill": true
   }
 }

@@ -10,48 +10,42 @@ const categories = [
     title: "Fresh Meat & Fish",
     description: "Premium goat meat, oxtail, mackerel, sardines & stockfish",
     icon: Drumstick,
-    image:
-      "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=600&q=80",
+    image: "/images/product-5.jpeg",
     href: "/shop",
   },
   {
     title: "African Staples",
     description: "Garri, semovita, plantain, yam flour, egusi & more",
     icon: Package,
-    image:
-      "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=600&q=80",
+    image: "/images/product-6.jpeg",
     href: "/shop",
   },
   {
     title: "Caribbean Groceries",
     description: "Scotch bonnet, ackee, callaloo, grace products & jerk seasoning",
     icon: Fish,
-    image:
-      "https://images.unsplash.com/photo-1585412727339-54e4bae3bbf9?w=600&q=80",
+    image: "/images/product-7.jpeg",
     href: "/shop",
   },
   {
     title: "Snacks & Drinks",
     description: "Chin-chin, puff-puff, malt drinks, Malta Guinness & zobo",
     icon: Candy,
-    image:
-      "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=600&q=80",
+    image: "/images/product-8.jpeg",
     href: "/shop",
   },
   {
     title: "Afro Cosmetics",
     description: "Black soap, shea butter, cantu products & hair oils",
     icon: Sparkles,
-    image:
-      "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=600&q=80",
+    image: "/images/product-9.jpeg",
     href: "/shop",
   },
   {
     title: "Wholesale Supplies",
     description: "Bulk rice, palm oil, semolina & catering sizes",
     icon: Boxes,
-    image:
-      "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=600&q=80",
+    image: "/images/product-10.jpeg",
     href: "/shop",
   },
 ];

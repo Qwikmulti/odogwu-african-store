@@ -73,7 +73,7 @@ export default function AboutPage() {
       <main>
         <section className="relative h-80 overflow-hidden">
           <Image
-            src="https://images.unsplash.com/photo-1506354666786-959d6d497f1a?w=1920&q=80"
+            src="/images/product-4.jpeg"
             alt="Vibrant African market scene at Odogwu African Shop"
             fill priority className="object-cover" sizes="100vw"
           />

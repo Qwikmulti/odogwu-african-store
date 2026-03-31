@@ -12,7 +12,7 @@ const allProducts: Product[] = [
     description: "Premium quality fresh goat meat, perfect for pepper soup, suya, and traditional stews.",
     category: "Meat & Fish",
     categoryId: "meat-fish",
-    image: "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=500&q=80",
+    image: "/images/product-1.jpeg",
   },
   {
     id: "2",
@@ -20,7 +20,7 @@ const allProducts: Product[] = [
     description: "Slow-cooked oxtail perfect for Jamaican-style brown stew or pressure-cooked to tender perfection.",
     category: "Meat & Fish",
     categoryId: "meat-fish",
-    image: "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=500&q=80",
+    image: "/images/product-2.jpeg",
   },
   {
     id: "3",
@@ -28,7 +28,7 @@ const allProducts: Product[] = [
     description: "Beloved West African canned sardines in rich tomato sauce. Perfect for sandwiches and rice dishes.",
     category: "Meat & Fish",
     categoryId: "meat-fish",
-    image: "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=500&q=80",
+    image: "/images/product-3.jpeg",
   },
   {
     id: "4",
@@ -36,7 +36,7 @@ const allProducts: Product[] = [
     description: "Rich, smoky mackerel — a staple for traditional Nigerian fish rolls and peppered fish dishes.",
     category: "Meat & Fish",
     categoryId: "meat-fish",
-    image: "https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=500&q=80",
+    image: "/images/product-4.jpeg",
   },
   {
     id: "5",
@@ -44,7 +44,7 @@ const allProducts: Product[] = [
     description: "Dried Atlantic cod, essential for authentic Nigerian egusi soup and many West African dishes.",
     category: "Meat & Fish",
     categoryId: "meat-fish",
-    image: "https://images.unsplash.com/photo-1559737558-2f5a35f4523b?w=500&q=80",
+    image: "/images/product-5.jpeg",
   },
   {
     id: "6",
@@ -52,7 +52,7 @@ const allProducts: Product[] = [
     description: "Tenderized cow feet — a favourite in Nigerian pepper soup and translational jollof dishes.",
     category: "Meat & Fish",
     categoryId: "meat-fish",
-    image: "https://images.unsplash.com/photo-1603048297172-c92544798d5a?w=500&q=80",
+    image: "/images/product-6.jpeg",
   },
 
   // African Staples
@@ -62,7 +62,7 @@ const allProducts: Product[] = [
     description: "Premium fermented cassava flakes for eba. Fine texture, properly dehydrated.",
     category: "African Staples",
     categoryId: "staples",
-    image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500&q=80",
+    image: "/images/product-7.jpeg",
   },
   {
     id: "8",
@@ -70,7 +70,7 @@ const allProducts: Product[] = [
     description: "Rich yellow garri with palm oil infused for that extra flavour in your eba.",
     category: "African Staples",
     categoryId: "staples",
-    image: "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500&q=80",
+    image: "/images/product-8.jpeg",
   },
   {
     id: "9",
@@ -78,7 +78,7 @@ const allProducts: Product[] = [
     description: "Finely milled semolina for smooth, lump-free semolina swallow. A household favourite.",
     category: "African Staples",
     categoryId: "staples",
-    image: "https://images.unsplash.com/photo-1589119908995-c6837fa14848?w=500&q=80",
+    image: "/images/product-9.jpeg",
   },
   {
     id: "10",
@@ -86,7 +86,7 @@ const allProducts: Product[] = [
     description: "Premium yam flour for making authentic amala. Smooth consistency every time.",
     category: "African Staples",
     categoryId: "staples",
-    image: "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500&q=80",
+    image: "/images/product-10.jpeg",
   },
   {
     id: "11",
@@ -94,7 +94,7 @@ const allProducts: Product[] = [
     description: "Fine plantain flour for preparing plantain fufu — great with Nigerian soups.",
     category: "African Staples",
     categoryId: "staples",
-    image: "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=500&q=80",
+    image: "/images/product-11.jpeg",
   },
   {
     id: "12",
@@ -102,7 +102,7 @@ const allProducts: Product[] = [
     description: "Ground egusi seeds — the essential base for Nigeria's most popular soup.",
     category: "African Staples",
     categoryId: "staples",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&q=80",
+    image: "/images/product-12.jpeg",
   },
 
   // Caribbean
@@ -112,7 +112,7 @@ const allProducts: Product[] = [
     description: "Fiery Scotch bonnet chillies — essential for authentic Caribbean jerk and pepper sauces.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1585412727339-54e4bae3bbf9?w=500&q=80",
+    image: "/images/product-13.jpeg",
   },
   {
     id: "14",
@@ -120,7 +120,7 @@ const allProducts: Product[] = [
     description: "Rich coconut milk for Caribbean curries, rice and peas, and traditional dishes.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&q=80",
+    image: "/images/product-14.jpeg",
   },
   {
     id: "15",
@@ -128,7 +128,7 @@ const allProducts: Product[] = [
     description: "Canned ackee in brine with premium saltfish — Jamaica's national dish, ready to cook.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500&q=80",
+    image: "/images/product-15.jpeg",
   },
   {
     id: "16",
@@ -136,7 +136,7 @@ const allProducts: Product[] = [
     description: "Tender callaloo leaves — a Caribbean green vegetable essential for callaloo rice and soups.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=500&q=80",
+    image: "/images/product-16.jpeg",
   },
   {
     id: "17",
@@ -144,7 +144,7 @@ const allProducts: Product[] = [
     description: "Authentic Jamaican jerk marinade — scotch bonnet, allspice, thyme and garlic.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1596097635121-14b63b7a0c19?w=500&q=80",
+    image: "/images/product-17.jpeg",
   },
   {
     id: "18",
@@ -152,7 +152,7 @@ const allProducts: Product[] = [
     description: "Ground West African crayfish — the secret umami bomb for Nigerian and Ghanaian soups.",
     category: "Caribbean",
     categoryId: "caribbean",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&q=80",
+    image: "/images/product-18.jpeg",
   },
 
   // Snacks & Drinks
@@ -162,7 +162,7 @@ const allProducts: Product[] = [
     description: "Crunchy, sweet fried dough — the quintessential Nigerian party snack and childhood favourite.",
     category: "Snacks & Drinks",
     categoryId: "snacks",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=500&q=80",
+    image: "/images/product-19.jpeg",
   },
   {
     id: "20",
@@ -170,7 +170,7 @@ const allProducts: Product[] = [
     description: "Pre-mixed puff puff batter — just add water and fry for fluffy, golden Nigerian doughnuts.",
     category: "Snacks & Drinks",
     categoryId: "snacks",
-    image: "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=500&q=80",
+    image: "/images/product-20.jpeg",
   },
   {
     id: "21",
@@ -178,7 +178,7 @@ const allProducts: Product[] = [
     description: "The iconic non-alcoholic malt drink from Guinness — rich, sweet, and energizing.",
     category: "Snacks & Drinks",
     categoryId: "snacks",
-    image: "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500&q=80",
+    image: "/images/product-21.jpeg",
   },
   {
     id: "22",
@@ -186,7 +186,7 @@ const allProducts: Product[] = [
     description: "Hibiscus flower drink concentrate for making the beloved Nigerian zobo — tart, sweet, refreshing.",
     category: "Snacks & Drinks",
     categoryId: "snacks",
-    image: "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500&q=80",
+    image: "/images/product-22.jpeg",
   },
   {
     id: "23",
@@ -194,7 +194,7 @@ const allProducts: Product[] = [
     description: "The classic British energy drink — glucose-fuelled energy, a UK cultural staple.",
     category: "Snacks & Drinks",
     categoryId: "snacks",
-    image: "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=500&q=80",
+    image: "/images/product-23.jpeg",
   },
   {
     id: "24",
@@ -202,7 +202,7 @@ const allProducts: Product[] = [
     description: "Dry roasted groundnuts — a wholesome, protein-rich snack for every occasion.",
     category: "Snacks & Drinks",
     categoryId: "snacks",
-    image: "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=500&q=80",
+    image: "/images/product-1.jpeg",
   },
 
   // Cosmetics
@@ -212,7 +212,7 @@ const allProducts: Product[] = [
     description: "Traditional Ghanaian black soap — unrefined shea butter and cocoa blend for cleansing and skincare.",
     category: "Cosmetics",
     categoryId: "cosmetics",
-    image: "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&q=80",
+    image: "/images/product-2.jpeg",
   },
   {
     id: "26",
@@ -220,7 +220,7 @@ const allProducts: Product[] = [
     description: "Pure, unrefined shea butter — deeply moisturising for skin, hair, and body care.",
     category: "Cosmetics",
     categoryId: "cosmetics",
-    image: "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=500&q=80",
+    image: "/images/product-3.jpeg",
   },
   {
     id: "27",
@@ -228,7 +228,7 @@ const allProducts: Product[] = [
     description: "Cantu coconut milk collection — leave-in conditioner, curl activator, and shine spray.",
     category: "Cosmetics",
     categoryId: "cosmetics",
-    image: "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=500&q=80",
+    image: "/images/product-4.jpeg",
   },
   {
     id: "28",
@@ -236,7 +236,7 @@ const allProducts: Product[] = [
     description: "Murray's Hair Food — petroleum jelly and mineral oil blend for natural hair moisture.",
     category: "Cosmetics",
     categoryId: "cosmetics",
-    image: "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=500&q=80",
+    image: "/images/product-5.jpeg",
   },
 
   // Wholesale
@@ -246,7 +246,7 @@ const allProducts: Product[] = [
     description: "Premium long-grain rice in 25kg wholesale bags — perfect for families and caterers.",
     category: "Wholesale",
     categoryId: "wholesale",
-    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=500&q=80",
+    image: "/images/product-6.jpeg",
   },
   {
     id: "30",
@@ -254,7 +254,7 @@ const allProducts: Product[] = [
     description: "Crude red palm oil — the authentic cooking oil for egusi, fried plantain, and more.",
     category: "Wholesale",
     categoryId: "wholesale",
-    image: "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=500&q=80",
+    image: "/images/product-7.jpeg",
   },
 ];
 

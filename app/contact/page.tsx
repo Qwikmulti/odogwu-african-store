@@ -66,7 +66,7 @@ export default function ContactPage() {
       <main>
         <section className="relative h-80 overflow-hidden">
           <Image
-            src="https://images.unsplash.com/photo-1506354666786-959d6d497f1a?w=1920&q=80"
+            src="/images/product-3.jpeg"
             alt="Contact Odogwu African Shop in Chatham, Kent"
             fill priority className="object-cover" sizes="100vw"
           />

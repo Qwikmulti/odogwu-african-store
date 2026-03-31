@@ -79,7 +79,7 @@ export default function ShopPage() {
       <main>
         <section className="relative h-80 overflow-hidden">
           <Image
-            src="https://images.unsplash.com/photo-1506354666786-959d6d497f1a?w=1920&q=80"
+            src="/images/product-2.jpeg"
             alt="Odogwu African Shop product shelves full of afro-caribbean groceries"
             fill priority className="object-cover" sizes="100vw"
           />

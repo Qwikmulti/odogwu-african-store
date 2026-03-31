@@ -5,19 +5,19 @@ import Image from "next/image";
 
 const galleryImages = [
   {
-    src: "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=600&q=80",
+    src: "/images/product-12.jpeg",
     alt: "African shop interior with colourful product shelves",
   },
   {
-    src: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+    src: "/images/product-13.jpeg",
     alt: "Vibrant African market with fresh produce",
   },
   {
-    src: "https://images.unsplash.com/photo-1589119908995-c6837fa14848?w=600&q=80",
+    src: "/images/product-14.jpeg",
     alt: "African staples and grains display",
   },
   {
-    src: "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=600&q=80",
+    src: "/images/product-15.jpeg",
     alt: "Fresh plantains and tropical produce at market",
   },
 ];
