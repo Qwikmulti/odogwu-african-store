@@ -18,7 +18,7 @@ export default function StorySection() {
           >
             <div className="relative h-[500px] rounded-2xl overflow-hidden">
               <Image
-                src="/images/product-11.jpeg"
+                src="/images/product-17.jpeg"
                 alt="Inside Odogwu African Shop with shelves full of African products"
                 fill
                 className="object-cover"
