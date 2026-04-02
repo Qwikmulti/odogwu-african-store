@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Playfair_Display, DM_Sans } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const playfair = Playfair_Display({
@@ -127,7 +128,10 @@ export default function RootLayout({
         <meta name="business:contact_data:postal_code" content="ME4 4HU" />
         <meta name="business:contact_data:country_name" content="United Kingdom" />
       </head>
-      <body className="min-h-screen flex flex-col antialiased">{children}</body>
+      <body className="min-h-screen flex flex-col antialiased">
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
