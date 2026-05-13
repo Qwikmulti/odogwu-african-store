@@ -67,7 +67,7 @@ export default function HeroSection() {
             className="flex flex-col sm:flex-row gap-4"
           >
             <Link
-              href="#"
+              href="https://wa.me/441622236105" 
               className="inline-flex items-center justify-center gap-2 bg-[#D4A017] text-[#1C1C1C] px-8 py-4 rounded-full font-bold text-lg hover:bg-[#E8B82A] transition-all hover:scale-105 active:scale-95 shadow-lg"
             >
               Order Now
