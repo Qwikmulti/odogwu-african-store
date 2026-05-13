@@ -41,9 +41,11 @@ export default function HeroSection() {
             className="text-5xl sm:text-6xl lg:text-7xl font-bold text-[#FAF7F0] leading-tight mb-6"
             style={{ fontFamily: "var(--font-playfair)" }}
           >
-            From Our Roots
+            Bringing the
             <br />
-            <span className="text-[#D4A017]">to Your Table</span>
+            Taste of Home
+            <br />
+            <span className="text-[#D4A017]">Closer to you</span>
           </motion.h1>
 
           {/* Subheadline */}
@@ -53,8 +55,8 @@ export default function HeroSection() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-xl text-[#FAF7F0]/90 mb-10 max-w-lg leading-relaxed"
           >
-            Your one-stop shop for authentic Afro-Caribbean groceries, fresh
-            meat, fish, snacks, and more. Retail &amp; wholesale available.
+            Your one-stop shop for authentic Afro-Caribbean Foodstuffs and groceries, fresh
+            meat, fish, snacks, cooking oils, fresh vegetables, spices, and more. Retail &amp; wholesale available.
           </motion.p>
 
           {/* CTAs */}

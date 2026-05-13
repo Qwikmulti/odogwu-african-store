@@ -13,7 +13,7 @@ const BASE_URL = "https://www.odogwuafricanshop.co.uk";
 export const metadata: Metadata = {
   title: "Contact Us | Odogwu African Shop",
   description:
-    "Get in touch with Odogwu African Shop. Call +44 1622 236105, email info@odogwuafricanshop.co.uk, or visit us at 23 Railway St, Chatham ME4 4HU. Home delivery within 2.5 miles.",
+    "Get in touch with Odogwu African Shop. Call +44 1622 236105, email info@odogwuafricanshop.co.uk, or visit us at 23 Railway St, Chatham ME4 4HU.",
   keywords: [
     "contact odogwu african shop", "african shop phone chatham",
     "afro-caribbean shop address", "home delivery chatham african food",
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: "Contact Us | Odogwu African Shop",
-    description: "Call, email or visit us. 23 Railway St, Chatham ME4 4HU. Home delivery within 2.5 miles. Open Mon-Sat until 8pm.",
+    description: "Call, email or visit us. 23 Railway St, Chatham ME4 4HU. Open Mon-Sat until 8pm.",
     url: `${BASE_URL}/contact`,
     type: "website",
     images: [{ url: `${BASE_URL}/og-image.jpg`, width: 1200, height: 630, alt: "Contact Odogwu African Shop" }],
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Contact Us | Odogwu African Shop",
-    description: "Call +44 1622 236105 or visit 23 Railway St, Chatham ME4 4HU. Home delivery within 2.5 miles.",
+    description: "Call +44 1622 236105 or visit 23 Railway St, Chatham ME4 4HU.",
     site: "@odogwuafricanshop",
   },
   alternates: { canonical: `${BASE_URL}/contact` },
@@ -146,9 +146,9 @@ export default function ContactPage() {
                 <h2 className="text-3xl font-bold text-[#1B4332] mb-2" style={{ fontFamily: "var(--font-playfair)" }}>Find Us</h2>
                 <p className="text-[#6B7280] mb-8">Visit us at 23 Railway St, Chatham — just a short walk from Chatham railway station.</p>
                 <MapEmbed />
-                <div className="mt-8 p-6 bg-[#D4A017]/10 rounded-xl border border-[#D4A017]/20">
-                  <h4 className="font-bold text-[#1B4332] mb-2">Home Delivery Available</h4>
-                  <p className="text-sm text-[#6B7280]">We deliver within 2.5 miles of our store. A minimum spend applies — call us to confirm your area and minimum order requirements.</p>
+                <div className="mt-8 p-6 bg-[#1B4332] rounded-xl border border-[#D4A017]/20">
+                  <h4 className="font-bold text-[#fff] mb-2">Home Delivery Available</h4>
+                  <p className="text-sm text-[#fff]">Contact us to confirm your area and minimum order requirements.</p>
                 </div>
               </div>
             </div>

@@ -7,42 +7,43 @@ import { Fish, Drumstick, Package, Candy, Sparkles, Boxes } from "lucide-react";
 
 const categories = [
   {
-    title: "Fresh Meat & Fish",
+    title: "Cooking Ingredients",
     description: "Premium goat meat, oxtail, mackerel, sardines & stockfish",
     icon: Drumstick,
     image: "/images/product-5.jpeg",
     href: "/shop",
   },
   {
-    title: "African Staples",
+    title: "Cooking Oils",
     description: "Garri, semovita, plantain, yam flour, egusi & more",
     icon: Package,
     image: "/images/product-6.jpeg",
     href: "/shop",
   },
   {
-    title: "Caribbean Groceries",
-    description: "Scotch bonnet, ackee, callaloo, grace products & jerk seasoning",
+    title: "Spices",
+    description:
+      "Scotch bonnet, ackee, callaloo, grace products & jerk seasoning",
     icon: Fish,
     image: "/images/product-7.jpeg",
     href: "/shop",
   },
   {
-    title: "Snacks & Drinks",
+    title: "Grains",
     description: "Chin-chin, puff-puff, malt drinks, Malta Guinness & zobo",
     icon: Candy,
     image: "/images/product-8.jpeg",
     href: "/shop",
   },
   {
-    title: "Afro Cosmetics",
+    title: "Vegetables",
     description: "Black soap, shea butter, cantu products & hair oils",
     icon: Sparkles,
     image: "/images/product-9.jpeg",
     href: "/shop",
   },
   {
-    title: "Wholesale Supplies",
+    title: "Hairs $ Cosmetics",
     description: "Bulk rice, palm oil, semolina & catering sizes",
     icon: Boxes,
     image: "/images/product-10.jpeg",
@@ -103,7 +104,8 @@ export default function CategoryGrid() {
           {categories.map((category) => (
             <motion.div key={category.title} variants={itemVariants}>
               <Link
-                href={category.href}
+                href="#"
+                // href={category.href}
                 className="group relative h-80 rounded-2xl overflow-hidden block"
               >
                 {/* Image */}

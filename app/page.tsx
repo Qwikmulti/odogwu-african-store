@@ -15,7 +15,7 @@ const BASE_URL = "https://www.odogwuafricanshop.co.uk";
 export const metadata: Metadata = {
   title: "Odogwu African Shop | Authentic Afro-Caribbean Groceries in Chatham, Kent",
   description:
-    "Your one-stop Afro-Caribbean shop in Chatham, Kent. Fresh meat, fish, African staples, Caribbean snacks, cosmetics and wholesale supplies. Home delivery within 2.5 miles. Open Mon-Sat until 8pm.",
+    "Your one-stop Afro-Caribbean shop in Chatham, Kent. Fresh meat, fish, African staples, Caribbean snacks, cosmetics and wholesale supplies. Open Mon-Sat until 8pm.",
   keywords: [
     "Afro-Caribbean shop Chatham",
     "African groceries Kent",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Odogwu African Shop | Authentic Afro-Caribbean Groceries",
     description:
-      "Fresh meat, fish, African staples, Caribbean snacks & more. Retail & Wholesale. Home delivery within 2.5 miles of Chatham.",
+      "Fresh meat, fish, African staples, Caribbean snacks & more. Retail & Wholesale.",
     url: BASE_URL,
     type: "website",
     images: [{ url: `${BASE_URL}/og-image.jpg`, width: 1200, height: 630, alt: "Odogwu African Shop" }],
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Odogwu African Shop | Authentic Afro-Caribbean Groceries",
-    description: "Fresh meat, fish, African staples, Caribbean snacks & more. Home delivery within 2.5 miles of Chatham.",
+    description: "Fresh meat, fish, African staples, Caribbean snacks & more.",
     site: "@odogwuafricanshop",
     creator: "@odogwuafricanshop",
   },

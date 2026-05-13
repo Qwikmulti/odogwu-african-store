@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const stats = [
   { value: "500+", label: "Products in Stock" },
-  { value: "2.5", label: "Mile Delivery Radius" },
+  // { value: "2.5", label: "Mile Delivery Radius" },
   { value: "7", label: "Days a Week Open" },
   { value: "10+", label: "Years Serving Chatham" },
 ];

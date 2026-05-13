@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     template: "%s | Odogwu African Shop",
   },
   description:
-    "Odogwu African Shop in Chatham, UK offers authentic Afro-Caribbean groceries, fresh meat, fresh fish, snacks, cosmetics, and household items. Retail & Wholesale. Home delivery within 2.5 miles.",
+    "Odogwu African Shop in Chatham, UK offers authentic Afro-Caribbean groceries, fresh meat, fresh fish, snacks, cosmetics, and household items. Retail & Wholesale.",
   keywords: [
     "African shop Chatham",
     "Caribbean groceries UK",
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     siteName: "Odogwu African Shop",
     title: "Odogwu African Shop | Your Authentic Taste of Africa & the Caribbean",
     description:
-      "One-stop shop for Afro-Caribbean groceries, fresh meat, fish, snacks & more. Retail & Wholesale. Home delivery within 2.5 miles of Chatham, Kent.",
+      "One-stop shop for Afro-Caribbean groceries, fresh meat, fish, snacks & more. Retail & Wholesale.",
     images: [
       {
         url: "/og-image.jpg",
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Odogwu African Shop | Your Authentic Taste of Africa & the Caribbean",
     description:
-      "Afro-Caribbean groceries, fresh meat, fish, snacks & more. Retail & Wholesale. Home delivery within 2.5 miles of Chatham.",
+      "Afro-Caribbean groceries, fresh meat, fish, snacks & more. Retail & Wholesale.",
     site: "@odogwuafricanshop",
     creator: "@odogwuafricanshop",
     images: ["/og-image.jpg"],

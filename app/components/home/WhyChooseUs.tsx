@@ -10,12 +10,12 @@ const features = [
     description:
       "We receive fresh deliveries every morning, ensuring the highest quality meat, fish, and produce for our customers.",
   },
-  {
-    icon: Truck,
-    title: "Local Delivery",
-    description:
-      "Convenient home delivery within 2.5 miles of our store. Call us to place your order and we'll bring the shop to your door.",
-  },
+  // {
+  //   icon: Truck,
+  //   title: "Local Delivery",
+  //   description:
+  //     "Convenient home delivery within 2.5 miles of our store. Call us to place your order and we'll bring the shop to your door.",
+  // },
   {
     icon: Tag,
     title: "Wholesale Pricing",
