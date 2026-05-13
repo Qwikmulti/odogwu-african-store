@@ -51,12 +51,12 @@ export default function Navbar() {
                   />
                   <path
                     d="M20 12c0 0-4 4-4 9s4 6 4 6 4-1 4-6-4-9-4-9z"
-                    fill="#1B4332"
+                    fill="#D4A017"
                   />
                 </svg>
               </div>
               <span
-                className="font-['Playfair_Display'] text-2xl font-bold text-[#1B4332] tracking-tight group-hover:text-[#D4A017] transition-colors"
+                className="font-['Playfair_Display'] text-2xl font-bold text-[#D4A017] tracking-tight group-hover:text-[#D4A017] transition-colors"
                 style={{ fontFamily: "var(--font-playfair)" }}
               >
                 Odogwu
