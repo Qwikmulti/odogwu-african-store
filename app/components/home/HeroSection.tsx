@@ -67,20 +67,12 @@ export default function HeroSection() {
             className="flex flex-col sm:flex-row gap-4"
           >
             <Link
-              href="/shop"
+              href="#"
               className="inline-flex items-center justify-center gap-2 bg-[#D4A017] text-[#1C1C1C] px-8 py-4 rounded-full font-bold text-lg hover:bg-[#E8B82A] transition-all hover:scale-105 active:scale-95 shadow-lg"
             >
-              Browse Our Shop
+              Order Now
             </Link>
-            <a
-              href="https://maps.google.com/?q=23+Railway+St+Chatham+ME4+4HU"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 bg-[#FAF7F0]/10 backdrop-blur-sm border border-[#FAF7F0]/30 text-[#FAF7F0] px-8 py-4 rounded-full font-semibold text-lg hover:bg-[#FAF7F0]/20 transition-all"
-            >
-              <MapPin className="w-5 h-5" />
-              Get Directions
-            </a>
+        
           </motion.div>
 
           {/* Trust Indicators */}
