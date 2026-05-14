@@ -80,11 +80,11 @@ export default function Navbar() {
             {/* CTA Button */}
             <div className="hidden md:flex items-center gap-4">
               <a
-                href="tel:+441622236105"
+                href="/contact"
                 className="flex items-center gap-2 bg-[#1B4332] text-[#FAF7F0] px-5 py-2.5 rounded-full font-semibold hover:bg-[#14332A] transition-all hover:scale-105 active:scale-95"
               >
                 <Phone className="w-4 h-4" />
-                Call Us
+                Contact Us
               </a>
             </div>
 
@@ -129,14 +129,14 @@ export default function Navbar() {
                 </motion.div>
               ))}
               <motion.a
-                href="tel:+441622236105"
+                href="/contact"
                 initial={{ opacity: 0, x: -20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: navLinks.length * 0.1 }}
                 className="flex items-center gap-2 bg-[#1B4332] text-[#FAF7F0] px-6 py-3 rounded-full font-semibold w-fit mt-4"
               >
                 <Phone className="w-5 h-5" />
-                Call +44 1622 236105
+                Contact Us
               </motion.a>
             </nav>
           </motion.div>
