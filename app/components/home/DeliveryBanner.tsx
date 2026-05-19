@@ -36,11 +36,11 @@ export default function DeliveryBanner() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="tel:+441622236105"
+            href="tel:+447349133791"
             className="inline-flex items-center justify-center gap-3 bg-[#1B4332] text-[#FAF7F0] px-8 py-4 rounded-full font-bold text-lg hover:bg-[#14332A] transition-all hover:scale-105 active:scale-95 shadow-lg"
           >
             <Phone className="w-5 h-5" />
-            Call +44 1622 236105
+            Contact +44 7349133791 
           </a>
           <a
             href="https://maps.google.com/?q=23+Railway+St+Chatham+ME4+4HU"
