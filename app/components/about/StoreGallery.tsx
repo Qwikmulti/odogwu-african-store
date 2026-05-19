@@ -98,10 +98,10 @@ export default function StoreGallery() {
               Get Directions
             </a>
             <a
-              href="tel:+441622236105"
+              href="tel:+447349133791"
               className="inline-flex items-center justify-center gap-2 bg-[#FAF7F0]/10 border border-[#FAF7F0]/30 text-[#FAF7F0] px-6 py-3 rounded-full font-bold hover:bg-[#FAF7F0]/20 transition-all"
             >
-              Call +44 1622 236105
+              Contact +44 7349133791
             </a>
           </div>
         </motion.div>
