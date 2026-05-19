@@ -129,7 +129,7 @@ export default function Navbar() {
                 </motion.div>
               ))}
               <motion.a
-                href="/contact"
+                href="tell:+447349133791"
                 initial={{ opacity: 0, x: -20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: navLinks.length * 0.1 }}
