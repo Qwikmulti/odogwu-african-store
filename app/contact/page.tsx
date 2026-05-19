@@ -90,7 +90,7 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-lg font-bold text-[#1B4332] mb-2" style={{ fontFamily: "var(--font-playfair)" }}>Phone</h3>
                 <a href="tel:+441622236105" className="text-[#6B7280] hover:text-[#1B4332] transition-colors">+44 1622 236105</a> 
-<br>
+</br>
                 <a href="tel:+447349133791" className="text-[#6B7280] hover:text-[#1B4332] transition-colors">+44 1622 236105</a>
                 <p className="text-sm text-[#6B7280] mt-1">Mon–Sat 9am–8pm</p>
               </div>
